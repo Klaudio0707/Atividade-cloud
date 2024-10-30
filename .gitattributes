@@ -1,0 +1,4 @@
+*.exe filter=lfs
+
+
+.terraform/providers/* filter=lfs
